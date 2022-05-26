@@ -1,9 +1,8 @@
-
-
-public class Banco{
+public class ContaCorrente{
 	
-	public static void main (String[] args) {
-		
-	}
+	private int agencia;
+	private int numero;
+	private double saldo;
+	
 }
 
