@@ -1,8 +1,15 @@
-public class ContaCorrente{
+public class ContaCorrente extends Conta{
 	
-	private int agencia;
-	private int numero;
-	private double saldo;
+
+	public ContaCorrente(Cliente cliente) {
+		super(cliente);
+	}
+
+	@Override
+	public void imprimirExtrato() {
+		System.out.println("=== Extrato Conta Corrente ===");
+		super.imprimirInfosComuns();
+	}
 	
 }
 
