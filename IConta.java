@@ -8,4 +8,4 @@ public interface IConta{
 }
 
 
-// interface seria .h do C?
+// interface seria .h do C, a classe Conta seria onde fica o corpo da funções 

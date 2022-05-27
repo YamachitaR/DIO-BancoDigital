@@ -17,5 +17,11 @@ Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), 
 - Professor: Venilton FalvoJr  [Linkedin](https://www.linkedin.com/in/falvojr/) [GitHub](https://github.com/falvojr/lab-banco-digital-oo)
 
 
+## Como exercutar 
 
+Após fazer clone, entre na pasta pelo terminal e de make.
 
+## Melhoria Futura 
+
+-  Criar uma interface;
+- Criar mais funcções;
